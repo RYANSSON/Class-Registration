@@ -1,0 +1,10 @@
+E:\Project3RWJ\Utilities\bin\Release\Utilities.dll
+E:\Project3RWJ\Utilities\bin\Release\Utilities.pdb
+E:\Project3RWJ\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+E:\Project3RWJ\Utilities\obj\Release\Utilities.dll
+E:\Project3RWJ\Utilities\obj\Release\Utilities.pdb
+F:\Project3RWJ\Utilities\bin\Release\Utilities.dll
+F:\Project3RWJ\Utilities\bin\Release\Utilities.pdb
+F:\Project3RWJ\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
+F:\Project3RWJ\Utilities\obj\Release\Utilities.dll
+F:\Project3RWJ\Utilities\obj\Release\Utilities.pdb

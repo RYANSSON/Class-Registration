@@ -1,0 +1,16 @@
+F:\Project3RWJ\Utilities\bin\Debug\Utilities.dll
+F:\Project3RWJ\Utilities\bin\Debug\Utilities.pdb
+F:\Project3RWJ\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Project3RWJ\Utilities\obj\Debug\Utilities.dll
+F:\Project3RWJ\Utilities\obj\Debug\Utilities.pdb
+H:\Project3RWJ\Utilities\bin\Debug\Utilities.dll
+H:\Project3RWJ\Utilities\bin\Debug\Utilities.pdb
+H:\Project3RWJ\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+H:\Project3RWJ\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+H:\Project3RWJ\Utilities\obj\Debug\Utilities.dll
+H:\Project3RWJ\Utilities\obj\Debug\Utilities.pdb
+E:\Project3RWJ\Utilities\bin\Debug\Utilities.dll
+E:\Project3RWJ\Utilities\bin\Debug\Utilities.pdb
+E:\Project3RWJ\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\Project3RWJ\Utilities\obj\Debug\Utilities.dll
+E:\Project3RWJ\Utilities\obj\Debug\Utilities.pdb
